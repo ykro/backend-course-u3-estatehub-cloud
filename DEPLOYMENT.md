@@ -1,6 +1,6 @@
 # DEPLOYMENT.md
 
-Completa esta ficha después de que el workflow "Despliegue a Cloud Run" termine en verde. El calificador lee la primera línea que empieza con `URL:`.
+Completa esta ficha después de que el workflow "Despliegue a Cloud Run" termine en verde. La línea de `URL` de abajo lleva la URL de tu servicio.
 
 URL: https://...
 

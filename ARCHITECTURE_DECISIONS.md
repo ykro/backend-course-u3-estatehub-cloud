@@ -28,7 +28,7 @@ Responde cada pregunta con tus palabras, en 3 a 8 líneas, citando archivos o fu
 
 ## ADR-5: Tokens sin revocación
 
-**Pregunta.** Si un token de Ana se filtra, ¿cuánto tiempo puede usarlo un atacante en esta API? Propón un mecanismo para revocarlo y explica qué perdemos al implementarlo.
+**Pregunta.** Si un token de Ana se filtra, ¿cuánto tiempo puede usarlo un atacante en este API? Propón un mecanismo para revocarlo y explica qué perdemos al implementarlo.
 
 **Respuesta.**
 
