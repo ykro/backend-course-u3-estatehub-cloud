@@ -1,7 +1,7 @@
 """Protección contra fuerza bruta en POST /api/v1/auth/token (reto autónomo).
 
 La especificación completa (contrato HTTP, ventana, cabeceras y casos borde) está en
-README.md. Este archivo fija lo único que los tests necesitan encontrar:
+la guía del reto del curso. Este archivo fija lo único que los tests necesitan encontrar:
 
 - get_clock(): dependencia que devuelve el reloj. Los tests la reemplazan por un reloj
   falso para avanzar el tiempo sin dormir. Toda lectura de tiempo del reto debe salir de

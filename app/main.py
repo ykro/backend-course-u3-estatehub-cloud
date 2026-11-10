@@ -229,7 +229,7 @@ def list_agents(current_agent: CurrentAgentDep, repo: RepoDep) -> list[AgentPubl
 )
 def login_for_access_token(payload: TokenRequest, repo: RepoDep) -> TokenResponse:
     # TODO (reto autónomo): protección contra fuerza bruta. Lee la especificación completa
-    # en README.md. Usa las dependencias get_login_guard y get_clock de app/login_guard.py
+    # en la guía del reto del curso. Usa las dependencias get_login_guard y get_clock de app/login_guard.py
     # (los tests las reemplazan) y responde 429 con Retry-After y TOO_MANY_ATTEMPTS.
     return repo.authenticate_and_issue_token(payload)
 

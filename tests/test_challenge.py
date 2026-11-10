@@ -1,6 +1,6 @@
 """Reto autónomo (tests públicos): protección contra fuerza bruta en el login.
 
-Son una muestra: el contrato completo del README tiene más bordes y datos distintos.
+Son una muestra: el contrato completo de la guía del reto tiene más bordes y datos distintos.
 """
 
 from __future__ import annotations
