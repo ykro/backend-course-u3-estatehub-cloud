@@ -1,6 +1,6 @@
 """Reto autónomo (tests públicos): protección contra fuerza bruta en el login.
 
-El calificador corre además tests ocultos con más bordes y datos distintos.
+Son una muestra: el contrato completo del README tiene más bordes y datos distintos.
 """
 
 from __future__ import annotations

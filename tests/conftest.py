@@ -1,7 +1,6 @@
 """Fixtures oficiales: herméticos (sin archivos .db, sin red) y deterministas.
 
-Este archivo es parte de la suite oficial. No lo modifiques: el calificador usa su
-propia copia.
+Este archivo es parte de la suite oficial. No lo modifiques.
 """
 
 from __future__ import annotations
