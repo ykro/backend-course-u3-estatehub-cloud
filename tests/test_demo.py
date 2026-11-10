@@ -14,7 +14,7 @@ from app.config import Settings
 def test_demo_health_catalog_and_console_are_safe_by_default(client: TestClient) -> None:
     health = client.get("/health")
     assert health.status_code == 200
-    # Contrato de /health (igual que el Curso 2): commit es null en local; en Cloud Run,
+    # Contrato de /health (igual que el curso de frontend): commit es null en local; en Cloud Run,
     # deploy.yml inyecta COMMIT_SHA con el SHA de 40 caracteres del commit desplegado.
     assert health.json() == {
         "status": "ok",

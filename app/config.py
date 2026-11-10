@@ -49,7 +49,7 @@ class Settings(BaseSettings):
     service_name: str = "estatehub-cloud"
     owner: str = "local"
     # SHA del commit desplegado: deploy.yml lo pasa como COMMIT_SHA=${{ github.sha }}. /health lo
-    # devuelve como "commit" (mismo contrato que el Curso 2); sin un SHA válido, null.
+    # devuelve como "commit" (mismo contrato que el curso de frontend); sin un SHA válido, null.
     commit_sha: str | None = None
 
     # Obligatorio y sin default: si falta, la aplicación no arranca.

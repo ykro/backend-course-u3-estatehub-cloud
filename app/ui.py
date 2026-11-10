@@ -84,7 +84,7 @@ pre { background: #F6F8FA; border: 1px solid var(--line); border-radius: 10px; p
       <div class="logo">E</div>
       <div>
         <h1>EstateHub Cloud API</h1>
-        <p class="sub">Curso 1, Unidad 3. Autenticación JWT, autorización por propietario y Cloud Run.</p>
+        <p class="sub">Unidad 3. Autenticación JWT, autorización por propietario y Cloud Run.</p>
       </div>
     </div>
     <div class="row">

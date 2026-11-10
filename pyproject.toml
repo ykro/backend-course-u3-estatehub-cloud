@@ -1,7 +1,7 @@
 [project]
 name = "unit3-estatehub-cloud"
 version = "3.0.0"
-description = "EstateHub Cloud API - Curso 1, Unidad 3 (JWT, anti-IDOR, fuerza bruta y Cloud Run)"
+description = "EstateHub Cloud API - Unidad 3 (JWT, anti-IDOR, fuerza bruta y Cloud Run)"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
