@@ -1,6 +1,6 @@
 # AGENTS.md: reglas para asistentes de IA en EstateHub Cloud
 
-Este archivo es la base. Como parte de la entrega debes ampliarlo con al menos 3 reglas verificables propias del reto (sección 4) y explicar en `ARCHITECTURE_DECISIONS.md` qué cambió en las respuestas de tu asistente al usarlo.
+Este archivo es la base. Como parte del reto debes ampliarlo con al menos 3 reglas verificables propias del reto (sección 4) y explicar en `ARCHITECTURE_DECISIONS.md` qué cambió en las respuestas de tu asistente al usarlo.
 
 ## 1. Seguridad (no negociable)
 
