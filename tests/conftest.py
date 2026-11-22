@@ -1,6 +1,6 @@
-"""Fixtures oficiales: herméticos (sin archivos .db, sin red) y deterministas.
+"""Fixtures herméticos (sin archivos .db, sin red) y deterministas.
 
-Este archivo es parte de la suite oficial. No lo modifiques.
+Este archivo es parte de los tests de la plantilla. No lo modifiques.
 """
 
 from __future__ import annotations

@@ -1,6 +1,7 @@
-"""Reto autónomo (tests públicos): protección contra fuerza bruta en el login.
+"""Tests del reto autónomo: protección contra fuerza bruta en el login.
 
-Son una muestra: el contrato completo de la guía del reto tiene más bordes y datos distintos.
+Cubren parte del contrato: la guía del reto tiene el contrato completo, con más
+edge cases y datos distintos.
 """
 
 from __future__ import annotations

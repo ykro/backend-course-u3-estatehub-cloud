@@ -1,6 +1,6 @@
 """Protección contra fuerza bruta en POST /api/v1/auth/token (reto autónomo).
 
-La especificación completa (contrato HTTP, ventana, cabeceras y casos borde) está en
+La especificación completa (contrato HTTP, ventana, cabeceras y edge cases) está en
 la guía del reto del curso. Este archivo fija lo único que los tests necesitan encontrar:
 
 - get_clock(): dependencia que devuelve el reloj. Los tests la reemplazan por un reloj

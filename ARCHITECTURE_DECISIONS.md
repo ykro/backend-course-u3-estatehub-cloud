@@ -1,6 +1,6 @@
 # ARCHITECTURE_DECISIONS.md (Unidad 3)
 
-Responde cada pregunta con tus palabras, en 3 a 8 líneas, citando archivos o funciones de tu código. Se califica con criterio técnico, no con extensión.
+Responde cada pregunta con tus palabras, en 3 a 8 líneas, citando archivos o funciones de tu código. Importa el criterio técnico, no la extensión.
 
 ## ADR-1: Dónde vive cada barrera de seguridad
 

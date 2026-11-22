@@ -46,7 +46,7 @@ jobs:
           {
             echo "### Resultado de la CI"
             echo ""
-            echo "Este resultado es retroalimentación sobre tu trabajo. Los tests públicos del reto"
-            echo "son una muestra: el contrato completo de la guía del reto tiene más casos borde y otros datos."
-            echo "Revisa también tu despliegue y no modifiques los tests oficiales ni los workflows."
+            echo "Este resultado es retroalimentación sobre tu trabajo. Los tests del reto cubren parte"
+            echo "del contrato: la guía del reto tiene más edge cases y otros datos."
+            echo "Revisa también tu despliegue y no modifiques los tests de la plantilla ni los workflows."
           } >> "$GITHUB_STEP_SUMMARY"
